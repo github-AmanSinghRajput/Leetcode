@@ -1,0 +1,30 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+*.class
+
+# Logs
+*.log
+
+# Compiled source #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temporary files
+*.swp
+*~
+
+# Java-specific
+bin/
+target/
