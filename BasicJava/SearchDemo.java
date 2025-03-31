@@ -1,5 +1,7 @@
 package BasicJava;
 
+import java.util.Arrays;
+
 public class SearchDemo {
     public static int linearSearch(int[] arr, int target){
         for(int i = 0; i < arr.length; i++){
