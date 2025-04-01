@@ -85,7 +85,7 @@ public class ValidAnagram {
         System.out.println("Optimized: " + isAnagramOptimized("anagram", "nagaram")); // true
         System.out.println("Optimized: " + isAnagramOptimized("rat", "car"));         // false
 
-        System.out.println("Optimized: " +  isAnagramHashMap2("aaaaanagram", "nagaram")); // true
+        System.out.println("Optimized: " +  isAnagramHashMap2("aaaaanagram", "nagaram")); // false
         System.out.println("Optimized: " + isAnagramHashMap2("rat", "car"));         // false
 
 
