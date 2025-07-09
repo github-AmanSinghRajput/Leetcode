@@ -22,7 +22,7 @@ Welcome, brave soul, to my daily quest of becoming the ultimate Java-powered Lee
 - **`Trees/`** – Traversals, Heights, and Binary Brilliance
 - **`Binary Search Trees/`** – Sorted Trees and Search Party Ops
 - **`Heaps & Priority Queues/`** – Min-maxing like a true loot goblin
-- **`Recursion/`** – Function-ception and stack overflow adventures
+- **`Recursion/`** – Function-ception and Stack overflow adventures
 - **`Backtracking/`** – Trying everything until something sticks
 - **`Dynamic Programming (DP)/`** – Memoization, Tabulation, and Brain Meltdowns
 - **`Greedy/`** – Because who needs to think ahead?
